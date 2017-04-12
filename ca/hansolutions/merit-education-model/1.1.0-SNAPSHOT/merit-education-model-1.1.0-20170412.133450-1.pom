@@ -6,7 +6,7 @@
 
     <groupId>ca.hansolutions</groupId>
     <artifactId>merit-education-model</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.1.0-SNAPSHOT</version>
 
     <properties>
         <appengine.app.version>1</appengine.app.version>
@@ -109,7 +109,9 @@
                     <noJekyll>true</noJekyll>
                     <outputDirectory>${project.build.directory}/mvn-repo</outputDirectory>
                     <branch>refs/heads/master</branch>
-                    <includes><include>**/*</include></includes>
+                    <includes>
+                        <include>**/*</include>
+                    </includes>
                     <repositoryOwner>hanSolutions</repositoryOwner>
                     <repositoryName>maven-repo</repositoryName>
                 </configuration>
