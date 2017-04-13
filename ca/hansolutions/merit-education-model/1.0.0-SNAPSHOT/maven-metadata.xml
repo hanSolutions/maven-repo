@@ -2,23 +2,23 @@
 <metadata modelVersion="1.1.0">
   <groupId>ca.hansolutions</groupId>
   <artifactId>merit-education-model</artifactId>
-  <version>1.1.0-SNAPSHOT</version>
+  <version>1.0.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20170412.133450</timestamp>
+      <timestamp>20170413.002839</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20170412133450</lastUpdated>
+    <lastUpdated>20170413002839</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.1.0-20170412.133450-1</value>
-        <updated>20170412133450</updated>
+        <value>1.0.0-20170413.002839-1</value>
+        <updated>20170413002839</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.1.0-20170412.133450-1</value>
-        <updated>20170412133450</updated>
+        <value>1.0.0-20170413.002839-1</value>
+        <updated>20170413002839</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
