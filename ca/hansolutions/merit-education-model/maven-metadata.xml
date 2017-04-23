@@ -3,10 +3,10 @@
   <groupId>ca.hansolutions</groupId>
   <artifactId>merit-education-model</artifactId>
   <versioning>
-    <release>1.0.6</release>
+    <release>1.0.5</release>
     <versions>
-      <version>1.0.6</version>
+      <version>1.0.5</version>
     </versions>
-    <lastUpdated>20170423033554</lastUpdated>
+    <lastUpdated>20170423034557</lastUpdated>
   </versioning>
 </metadata>
