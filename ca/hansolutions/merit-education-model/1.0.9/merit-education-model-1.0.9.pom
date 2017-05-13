@@ -6,7 +6,7 @@
 
     <groupId>ca.hansolutions</groupId>
     <artifactId>merit-education-model</artifactId>
-    <version>1.0.8</version>
+    <version>1.0.9</version>
 
     <properties>
         <appengine.app.version>1</appengine.app.version>
@@ -84,6 +84,11 @@
             <groupId>com.googlecode.objectify</groupId>
             <artifactId>objectify</artifactId>
             <version>5.1.14</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.data</groupId>
+            <artifactId>spring-data-mongodb</artifactId>
+            <version>1.10.3.RELEASE</version>
         </dependency>
     </dependencies>
 
