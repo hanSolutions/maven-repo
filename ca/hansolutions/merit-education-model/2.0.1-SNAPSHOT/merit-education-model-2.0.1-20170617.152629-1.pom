@@ -17,10 +17,6 @@
         <github.global.server>github</github.global.server>
     </properties>
 
-    <prerequisites>
-        <maven>3.1.0</maven>
-    </prerequisites>
-
     <distributionManagement>
         <repository>
             <id>internal.repo</id>
@@ -68,7 +64,9 @@
             <artifactId>spring-data-mongodb</artifactId>
             <version>1.10.3.RELEASE</version>
         </dependency>
+
     </dependencies>
+
 
     <build>
         <plugins>
